@@ -1,2 +1,3 @@
 print("hello")
-print("heloleoel")
+print("good bye")
+print("idk")
